@@ -1,0 +1,25 @@
+{
+    "subjects": [
+        {
+            "subjectName": "Mathematics",
+            "id": 0,
+            "subjectExpert": "Mr XYZ",
+            "experience": "10 years",
+            "achievements": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab neque fugit cum labore qui libero ducimus blanditiis tempora nam. Consectetur, nesciunt. Odio omnis esse rerum ut ad officia, praesentium repellat!"
+        },
+        {
+            "subjectName": "Physics",
+            "id": 1,
+            "subjectExpert": "Mr LMN",
+            "experience": "12 years",
+            "achievements": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab neque fugit cum labore qui libero ducimus blanditiis tempora nam. Consectetur, nesciunt. Odio omnis esse rerum ut ad officia, praesentium repellat!"
+        },
+        {
+            "subjectName": "Chemistry",
+            "id": 2,
+            "subjectExpert": "Mr QPR",
+            "experience": "15 years",
+            "achievements": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab neque fugit cum labore qui libero ducimus blanditiis tempora nam. Consectetur, nesciunt. Odio omnis esse rerum ut ad officia, praesentium repellat!"
+        }
+    ]
+}
